@@ -1,0 +1,34 @@
+.imageContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+figure {
+    display:table;
+    margin: 0;
+  }
+  
+figure img {
+    max-width: 100%;
+  }
+  
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    background: pink;
+    padding: 10px;
+    text-overflow: ellipsis;
+  }
+  /* figcaption{display:table-caption;caption-side:bottom} */
+  button {
+    background-color: #e7e7e7; color: black;; /* Green */
+    border: none;
+    color: black;
+    padding: 11px 24px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-flexbox;
+    font-size: 10px;
+    margin: 4px 5px;
+    cursor: pointer;
+  }
