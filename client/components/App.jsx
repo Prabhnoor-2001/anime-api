@@ -27,8 +27,8 @@ function App () {
   function handleChange (event) {
     setSearch(event.target.value)
     handleAnimeName(currentSearch)
-    // console.log(currentSearch)
   }
+
   return (
     <>
       <h1>Konnichwa weeb-kun</h1>
