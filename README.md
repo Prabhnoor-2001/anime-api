@@ -5,7 +5,7 @@ To get started:
 - Clone this repo
 
 ```sh
-cd consuming-external-apis
+cd anime-api
 npm install
 npm run dev
 ```
