@@ -1,4 +1,4 @@
-# External APIs - Choose your own adventure!
+# Find your anime!
 
 To get started:
 
